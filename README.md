@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sachin Singh Dangi</h1>
+<h1 align="center">Hi 👋, I'm Shivam Garg</h1>
 <h3 align="center">A passionate learner/coder from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachin-singh-dangi&label=Profile%20views&color=212121&style=flat" alt="sachin-singh-dangi" /> </p>
