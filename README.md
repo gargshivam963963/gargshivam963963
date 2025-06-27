@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gargshivam963963&label=Profile%20views&color=0e75b6&style=flat" alt="gargshivam963963" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gargshivam963963" alt="gargshivam963963" /></a> </p>
-
 - 🔭 I’m currently working on [Pmg WorkSpace](https://pmg.pmg.engineering/engineering-design/CoolingTowerPerformanceCalculation)
 
 - 🌱 I’m currently learning **threejs, nodejs, backend**
